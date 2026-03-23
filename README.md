@@ -10,3 +10,6 @@ To transform 18,900+ messy records into a structured dataset.
 ## Tools
 - Microsoft Excel
 - Power Query
+### Data transformation & cleaning
+! [Power Query Steps] (Power_query.png)
+! [Cleaned Data Preview] (Clean_data.png)
